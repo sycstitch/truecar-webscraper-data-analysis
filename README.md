@@ -6,16 +6,6 @@
 [![Pandas](https://img.shields.io/badge/pandas-2.2.3-orange.svg)](https://pandas.pydata.org/)
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 
-## The Origin Story (aka "Mom Needs Help")
-
-So here's the thing — my mom had this school assignment about web scraping Toyota listings, and naturally, she asked me for help. Plot twist: I'd never scraped anything in my life. Not even a dinner plate.
-
-But you know how it is... you can't just tell your mom "sorry, I don't know how to do that." So I did what any reasonable person would do: I dove headfirst into the beautiful chaos of BeautifulSoup documentation at 2 AM, armed with nothing but determination and way too much coffee.
-
-The assignment? Pretty straightforward actually — scrape some car data and export it to CSV/Excel. Done. Assignment complete. Mom happy.
-
-But here's where things got interesting... I couldn't just leave it there. Once I had the basic scraper working, I started thinking: "What if I could make this actually useful?" And thus began my journey down the rabbit hole of feature creep (in the best possible way).
-
 ## Project Structure (For the Organized People)
 
 ```
@@ -26,6 +16,16 @@ toyota-market-scraper/
 ├── cars-toyota-tacoma-4runner.xlsx  # Your data (Excel edition)
 └── README.md                        # You are here
 ```
+
+## The Origin Story (aka "Mom Needs Help")
+
+So here's the thing — my mom had this school assignment about web scraping Toyota listings, and naturally, she asked me for help. Plot twist: I'd never scraped anything in my life. Not even a dinner plate.
+
+But you know how it is... you can't just tell your mom "sorry, I don't know how to do that." So I did what any reasonable person would do: I dove headfirst into the beautiful chaos of BeautifulSoup documentation at 2 AM, armed with nothing but determination and way too much coffee.
+
+The assignment? Pretty straightforward actually — scrape some car data and export it to CSV/Excel. Done. Assignment complete. Mom happy.
+
+But here's where things got interesting... I couldn't just leave it there. Once I had the basic scraper working, I started thinking: "What if I could make this actually useful?" And thus began my journey down the rabbit hole of feature creep (in the best possible way).
 
 ## What This Thing Actually Does
 
