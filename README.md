@@ -16,6 +16,17 @@ The assignment? Pretty straightforward actually — scrape some car data and exp
 
 But here's where things got interesting... I couldn't just leave it there. Once I had the basic scraper working, I started thinking: "What if I could make this actually useful?" And thus began my journey down the rabbit hole of feature creep (in the best possible way).
 
+## Project Structure (For the Organized People)
+
+```
+toyota-market-scraper/
+├── cars.ipynb                       # The main event
+├── requirements.txt                 # Dependencies (the usual suspects)
+├── cars-toyota-tacoma-4runner.csv   # Your data (CSV edition)
+├── cars-toyota-tacoma-4runner.xlsx  # Your data (Excel edition)
+└── README.md                        # You are here
+```
+
 ## What This Thing Actually Does
 
 This scraper hits up TrueCar and grabs data on Toyota Tacomas and 4Runners around Boston. It's like having a really dedicated friend who refreshes car listings obsessively, except this friend:
@@ -175,17 +186,6 @@ This scraper:
 - Uses public data only
 - Doesn't break any terms of service (that I know of)
 - Is for educational purposes (and car shopping)
-
-## Project Structure (For the Organized People)
-
-```
-toyota-market-scraper/
-├── cars.ipynb                    # The main event
-├── requirements.txt              # Dependencies (the usual suspects)
-├── cars-toyota-tacoma-4runner.csv   # Your data (CSV edition)
-├── cars-toyota-tacoma-4runner.xlsx  # Your data (Excel edition)
-└── README.md                     # You are here
-```
 
 ---
 
