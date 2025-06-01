@@ -10,7 +10,7 @@
 
 ```
 toyota-market-scraper/
-├── cars.ipynb                       # The main event
+├── cars.ipynb                       # The main event (actual code)
 ├── requirements.txt                 # Dependencies (the usual suspects)
 ├── cars-toyota-tacoma-4runner.csv   # Your data (CSV edition)
 ├── cars-toyota-tacoma-4runner.xlsx  # Your data (Excel edition)
