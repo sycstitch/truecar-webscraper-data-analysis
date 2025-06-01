@@ -20,7 +20,7 @@ toyota-market-scraper/
 
 So here's the thing — my mom had this school assignment about web scraping Toyota listings, and naturally, she asked me for help. Plot twist: I'd never scraped anything in my life. Not even a dinner plate.
 
-But you know how it is... you can't just tell your mom "sorry, I don't know how to do that." So I did what any reasonable person would do: I dove headfirst into the beautiful chaos of BeautifulSoup documentation at 2 AM, armed with nothing but determination and way too much coffee.
+But you know how it is... you can't just tell your mom "sorry, I don't know how to do that." So I did what any reasonable person would do: I dove headfirst into the beautiful chaos of BeautifulSoup documentation at 8 PM (I'm an oldhead and get sleepy around 9 PM so God bless me), armed with nothing but determination and way too much tea.
 
 The assignment? Pretty straightforward actually — scrape some car data and export it to CSV/Excel. Done. Assignment complete. Mom happy.
 
