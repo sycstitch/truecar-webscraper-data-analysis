@@ -1,10 +1,10 @@
 # 🚗 Toyota Market Scraper
 *Or: How I Learned to Stop Worrying and Love Web Scraping*
 
-[![Python](https://img.shields.io/badge/python-v3.8+-blue.svg)](https://www.python.org/downloads/)
-[![BeautifulSoup](https://img.shields.io/badge/beautifulsoup4-4.13.3-green.svg)](https://pypi.org/project/beautifulsoup4/)
-[![Pandas](https://img.shields.io/badge/pandas-2.2.3-orange.svg)](https://pandas.pydata.org/)
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
+[![Python](https://img.shields.io/badge/python-v3.8+-blue.svg?style=for-the-badge)](https://www.python.org/downloads/)
+[![BeautifulSoup](https://img.shields.io/badge/beautifulsoup4-4.13.3-green.svg?style=for-the-badge)](https://pypi.org/project/beautifulsoup4/)
+[![Pandas](https://img.shields.io/badge/pandas-2.2.3-orange.svg?style=for-the-badge)](https://pandas.pydata.org/)
+[![License](https://img.shields.io/badge/license-MIT-blue.svg?style=for-the-badge)](LICENSE)
 
 ## Project Structure (For the Organized People)
 
