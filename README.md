@@ -1,4 +1,4 @@
-# 🚗 Toyota Market Scraper
+# 🚗 TrueCar Market Scraper
 
 [![Python](https://img.shields.io/badge/python-v3.8+-blue.svg?style=for-the-badge)](https://www.python.org/downloads/)
 [![BeautifulSoup](https://img.shields.io/badge/beautifulsoup4-4.13.3-green.svg?style=for-the-badge)](https://pypi.org/project/beautifulsoup4/)
